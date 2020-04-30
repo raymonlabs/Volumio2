@@ -47,6 +47,7 @@
     {"id":"taudac","name":"TauDAC - DM101","overlay":"taudac","alsanum":"1","mixer":"","modules":"","script":"","eeprom_name":"TauDAC-DM101","needsreboot":"yes"},
     {"id":"terraberry-dac2","name":"Terra-Berry DAC 2/3","overlay":"hifiberry-dac","alsanum":"1","mixer":"","modules":"","script":"","needsreboot":"yes"},
     {"id":"es90x8q2m-dac","name":"Volumio ESS 9028QM","overlay":"es90x8q2m-dac","alsanum":"1","mixer":"Digital","modules":"","script":"","i2c_address":"48","needsreboot":"no"}
+    {"id":"ES9038Pro Dac","name":"LEMONLANBS ES9038Pro DAC HAT","overlay":"ES9038Pro-dac","alsanum":"1","mixer":"Digital","modules":"","script":"","i2c_address":"90","needsreboot":"no"} 
   ]},
   {"name":"Odroid C1+","data":[
     {"id":"odroid-hifi-shield","name":"HiFi Shield","overlay":"","alsanum":"2","mixer":"","modules":"","script":""}
